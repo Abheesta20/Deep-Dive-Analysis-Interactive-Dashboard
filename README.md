@@ -112,8 +112,6 @@ python -m streamlit run dashboard.py
 
 # 📊 Dashboard Preview
 
-(Add screenshots of your dashboard here.)
-
 Example:
 
 - Dashboard Home
